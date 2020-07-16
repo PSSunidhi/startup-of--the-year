@@ -26,7 +26,7 @@ hr
 .btn{
 	font-weight: 700;
 	border-radius:300px;
-	text-transform: uppercase;
+	text-transform: lowercase;
 }
 .btn:hover{
 	background-color:black;
